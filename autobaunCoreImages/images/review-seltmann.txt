@@ -1,0 +1,6 @@
+Specimen data should be sent to GBIF (maybe Italian Network already does)
+(http://www.c-bar.org) is not very helpful for outsiders unless you can obtain the sequence data. What reason are you holding those data back?
+
+In general, this is a worthwhile paper and the results should be announcing something substancial. Without public access to the sequence data I do not feel it is a substancial an
+
+The sampling effort is impressive. I do wonder what happened to Western Australia and California? It seems particularly interesting since there is good chance to find collaborators in these regions 

@@ -1,0 +1,4 @@
+AMNH_ENT 00021880	image_folder0000001	AMNH_ENT 00021880_chlamyopsallus lycii m.jpg
+AMNH_ENT 00021881	image_folder0000001	AMNH_ENT 00021881_chlamyopsallus lycii f.jpg
+AMNH_ENT 00021882	image_folder0000001	AMNH_ENT 00021882_calidroides schaffneri f.jpg
+AMNH_ENT 00021883	image_folder0000001	AMNH_ENT 00021883_calidroides negro f.jpg

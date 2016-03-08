@@ -1,0 +1,196 @@
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-FEM-brac-DOR.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-FEM-brac-FRONS.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-FEM-brac-LAT.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-male-PARATYPE-brac-DOR.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-male-PARATYPE-brac-FRONS_-_Copy.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-male-PARATYPE-brac-FRONS.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-male-PARATYPE-brac-label_-_Copy.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-male-PARATYPE-brac-label.jpg
+image_folder00000019	KUNHMENT 00327177_Achorotile_curvata-male-PARATYPE-brac-LAT.jpg
+image_folder00000019	specimen_thumbnails
+image_folder00000019	UDCC_NRI 00000417_Bakerella_fusca-FEM-mac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000417_Bakerella_fusca-FEM-mac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000417_Bakerella_fusca-FEM-mac-rightLAT.jpg
+image_folder00000019	UDCC_NRI 00000418_Bakerella_fusca-MALE-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000418_Bakerella_fusca-MALE-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000418_Bakerella_fusca-MALE-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000418_Bakerella_fusca-PYGO-caud2.jpg
+image_folder00000019	UDCC_NRI 00000418_Bakerella_fusca-PYGO-lat3.jpg
+image_folder00000019	UDCC_NRI 00000418_Bakerella_fusca-PYGO-vent.jpg
+image_folder00000019	UDCC_NRI 00000420_Sayiana_sayi-DOR-scaled.jpg
+image_folder00000019	UDCC_NRI 00000420_Sayiana_sayi-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000420_Sayiana_sayi-LAT-head-scaled.jpg
+image_folder00000019	UDCC_NRI 00000420_Sayiana_sayi-LAT-scaled.jpg
+image_folder00000019	UDCC_NRI 00000445_Bostaera_nasuta-MALE-mac-DOR-scaled.jpg
+image_folder00000019	UDCC_NRI 00000445_Bostaera_nasuta-MALE-mac-FRONS-scaled.jpg
+image_folder00000019	UDCC_NRI 00000445_Bostaera_nasuta-MALE-mac-LAT-scaled.jpg
+image_folder00000019	UDCC_NRI 0000061_Delphacodes_incerta-FEM-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 0000061_Delphacodes_incerta-FEM-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 0000061_Delphacodes_incerta-FEM-brac-label.jpg
+image_folder00000019	UDCC_NRI 0000061_Delphacodes_incerta-FEM-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000632_Delphacodes_concava-PARATYPE-fem-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000632_Delphacodes_concava-PARATYPE-fem-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000632_Delphacodes_concava-PARATYPE-fem-brac-label.jpg
+image_folder00000019	UDCC_NRI 00000632_Delphacodes_concava-PARATYPE-fem-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000633_Delphacodes_concava-PARATYPE-male-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000633_Delphacodes_concava-PARATYPE-male-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000633_Delphacodes_concava-PARATYPE-male-brac-label.jpg
+image_folder00000019	UDCC_NRI 00000633_Delphacodes_concava-PARATYPE-male-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000694_Delphacodes_angulata-MALE-PARATYPE-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000694_Delphacodes_angulata-MALE-PARATYPE-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000694_Delphacodes_angulata-MALE-PARATYPE-brac-label.jpg
+image_folder00000019	UDCC_NRI 00000694_Delphacodes_angulata-MALE-PARATYPE-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000697_Delphacodes_angulata-PARATYPE-mac-PYGO_caud.jpg
+image_folder00000019	UDCC_NRI 00000697_Delphacodes_angulata-PARATYPE-mac-PYGO_lat1.jpg
+image_folder00000019	UDCC_NRI 00000697_Delphacodes_angulata-PARATYPE-mac-PYGO_lat2.jpg
+image_folder00000019	UDCC_NRI 00000697_Delphacodes_angulata-PARATYPE-mac-PYGO_vent.jpg
+image_folder00000019	UDCC_NRI 00000701_Delphacodes_angulata-MALE-PARATYPE-mac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000701_Delphacodes_angulata-MALE-PARATYPE-mac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000701_Delphacodes_angulata-MALE-PARATYPE-mac-label.jpg
+image_folder00000019	UDCC_NRI 00000701_Delphacodes_angulata-MALE-PARATYPE-mac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000706_Delphacodes_angulata-FEM-PARATYPE-mac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000706_Delphacodes_angulata-FEM-PARATYPE-mac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000706_Delphacodes_angulata-FEM-PARATYPE-mac-label.jpg
+image_folder00000019	UDCC_NRI 00000706_Delphacodes_angulata-FEM-PARATYPE-mac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000707_Delphacodes_angulata-FEM-PARATYPE-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000707_Delphacodes_angulata-FEM-PARATYPE-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000707_Delphacodes_angulata-FEM-PARATYPE-brac-label.jpg
+image_folder00000019	UDCC_NRI 00000707_Delphacodes_angulata-FEM-PARATYPE-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000738_Delphacodes_compta-MALE2-PARATYPE-brac-PYGO-intact.jpg
+image_folder00000019	UDCC_NRI 00000741_Delphacodes_compta-MALE-PARATYPE-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000741_Delphacodes_compta-MALE-PARATYPE-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000741_Delphacodes_compta-MALE-PARATYPE-brac-label.jpg
+image_folder00000019	UDCC_NRI 00000741_Delphacodes_compta-MALE-PARATYPE-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000741_Delphacodes_compta-MALE-PARATYPE-brac-PYGO-intact.jpg
+image_folder00000019	UDCC_NRI 00000748_Delphacodes_compta-FEM-PARATYPE-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000748_Delphacodes_compta-FEM-PARATYPE-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000748_Delphacodes_compta-FEM-PARATYPE-brac-Label.jpg
+image_folder00000019	UDCC_NRI 00000748_Delphacodes_compta-FEM-PARATYPE-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000755_Delphacodes_incerta-PLESIOTYPE-pygo-caud.jpg
+image_folder00000019	UDCC_NRI 00000756_Delphacodes_incerta-MALE-brac-DOR2.jpg
+image_folder00000019	UDCC_NRI 00000756_Delphacodes_incerta-MALE-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000756_Delphacodes_incerta-MALE-brac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000756_Delphacodes_incerta-MALE-brac-label.jpg
+image_folder00000019	UDCC_NRI 00000756_Delphacodes_incerta-MALE-brac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000756_Delphacodes_incerta-MALE-mac-label.jpg
+image_folder00000019	UDCC_NRI 00000759_Delphacodes_incerta-MALE-mac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000759_Delphacodes_incerta-MALE-mac-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000759_Delphacodes_incerta-MALE-mac-LAT.jpg
+image_folder00000019	UDCC_NRI 00000760_Delpacodes_incurva-MALE2-brach-DOR2.jpg
+image_folder00000019	UDCC_NRI 00000760_Delpacodes_incurva-MALE2-brach-FRONS.jpg
+image_folder00000019	UDCC_NRI 00000760_Delpacodes_incurva-MALE2-brach-label.jpg
+image_folder00000019	UDCC_NRI 00000760_Delpacodes_incurva-MALE2-brach-LAT.jpg
+image_folder00000019	UDCC_NRI 00000760_Delphacodes_incerta-PLESIOTYPE2-pygo-3Qters.jpg
+image_folder00000019	UDCC_NRI 00000760_Delphacodes_incerta-PLESIOTYPE2-pygo-caud2.jpg
+image_folder00000019	UDCC_NRI 00000760_Delphacodes_incerta-PLESIOTYPE2-pygo-caud.jpg
+image_folder00000019	UDCC_NRI 00000760_Delphacodes_incerta-PLESIOTYPE2-pygo-label.jpg
+image_folder00000019	UDCC_NRI 00000760_Delphacodes_incerta-PLESIOTYPE2-pygo-lat.jpg
+image_folder00000019	UDCC_NRI 00000780_Delphacodes_incurva-MALE2-brac-DOR.jpg
+image_folder00000019	UDCC_NRI 00000780_Delphacodes_incurva-PYGO-caud2.jpg
+image_folder00000019	UDCC_NRI 00000780_Delphacodes_incurva-PYGO-caud3.jpg
+image_folder00000019	UDCC_NRI 00000780_Delphacodes_incurva-PYGO-caud.jpg
+image_folder00000019	UDCC_NRI 00000780_Delphacodes_incurva-PYGO-label.jpg
+image_folder00000019	UDCC_NRI 00000780_Delphacodes_incurva-PYGO-lat_(2).jpg
+image_folder00000019	UDCC_NRI 00000921 Pentagramma_vittatifrons_pygo-3qtrs2.jpg
+image_folder00000019	UDCC_NRI 00000921 Pentagramma_vittatifrons_pygo-CAUD.jpg
+image_folder00000019	UDCC_NRI 00001439 Bakerella_cornigera-MALE-brac-DOR-scaled.jpg
+image_folder00000019	UDCC_NRI 00001439 Bakerella_cornigera-MALE-brac-LAT-scaled.jpg
+image_folder00000019	UDCC_NRI 00003266 Elachodelphax_bifidus-MALE-brac-FRONS-scaled.jpg
+image_folder00000019	UDCC_NRI 00003266 Elachodelphax_bifidus-MALE-brac-LAT-scaled.jpg
+image_folder00000019	UDCC_NRI 00009140 Poblicia_fuliginosa2-spread-label.jpg
+image_folder00000019	UDCC_NRI 0001443 Bakerella_muscotana-calcar.jpg
+image_folder00000019	UDCC_TCN 00000098 Acanalonia_bivattata-MALE-LAT2.jpg
+image_folder00000019	UDCC_TCN 00000219 Acanalonia_servillei-FEMALE-LAT.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata DV 023.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata DV 023-scaled.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata frons 0013.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata frons 0013-scaled.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata frons 0022.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata frons2.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata LV 0021.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata LV 0022.jpg
+image_folder00000019	UDCC_TCN 00001018 Acanalonia clypeata LV 0022-scaled.jpg
+image_folder00000019	UDCC_TCN 000011713_Delphacodes_latidens-MALE2-mac-LAT.jpg
+image_folder00000019	UDCC_TCN 00001249 Catonia_picta_MALE3-FRONS (2).jpg
+image_folder00000019	UDCC_TCN 00001249 Catonia_picta_MALE3-FRONS.jpg
+image_folder00000019	UDCC_TCN 00001249 Catonia_picta_MALE3-FRONS-scaled.jpg
+image_folder00000019	UDCC_TCN 00001462 Catonia_cinctifrons_MALE2-FRONS-scaled (2).jpg
+image_folder00000019	UDCC_TCN 00001462 Catonia_cinctifrons_MALE2-FRONS-scaled.jpg
+image_folder00000019	UDCC_TCN 00001463 Catonia_cinctifrons_MALE-DOR.jpg
+image_folder00000019	UDCC_TCN 00001463 Catonia_cinctifrons_MALE-DOR-scaled.jpg
+image_folder00000019	UDCC_TCN 00001465 Catonia_cinctifrons_MALE4-FRONS.jpg
+image_folder00000019	UDCC_TCN 00001465 Catonia_cinctifrons_MALE4-FRONS-scaled.jpg
+image_folder00000019	UDCC_TCN 00001471 Catonia_lunata_MALE3-DOR.jpg
+image_folder00000019	UDCC_TCN 00001471 Catonia_lunata_MALE3-FRONS.jpg
+image_folder00000019	UDCC_TCN 00001472 Catonia_lunata_MALE-DOR.jpg
+image_folder00000019	UDCC_TCN 00001487 Catonia_nava_MALE-DOR.jpg
+image_folder00000019	UDCC_TCN 00001487 Catonia_nava_MALE-FRONS.jpg
+image_folder00000019	UDCC_TCN 00010498_Megamelanus_bicolor-MALE-brachy-DOR.jpg
+image_folder00000019	UDCC_TCN 00010498_Megamelanus_bicolor-MALE-brachy-FRONS.jpg
+image_folder00000019	UDCC_TCN 00010498_Megamelanus_bicolor-MALE-brachy-LAT.jpg
+image_folder00000019	UDCC_TCN 00010502_Megamelanus_bicolor-FEM-mac-DOR.jpg
+image_folder00000019	UDCC_TCN 00010502_Megamelanus_bicolor-FEM-mac-FRONS2.jpg
+image_folder00000019	UDCC_TCN 00010502_Megamelanus_bicolor-FEM-mac-FRONS3.jpg
+image_folder00000019	UDCC_TCN 00010502_Megamelanus_bicolor-FEM-mac-LAT.jpg
+image_folder00000019	UDCC_TCN 00010503_Megamelanus_bicolor-FEM-brachy-DOR.jpg
+image_folder00000019	UDCC_TCN 00010503_Megamelanus_bicolor-FEM-brachy-FRONS.jpg
+image_folder00000019	UDCC_TCN 00010503_Megamelanus_bicolor-FEM-brachy-LAT.jpg
+image_folder00000019	UDCC_TCN 00011754_Nothodelphax_slossonae-FEM-mac-DOR.jpg
+image_folder00000019	UDCC_TCN 00011754_Nothodelphax_slossonae-FEM-mac-FRONS.jpg
+image_folder00000019	UDCC_TCN 00011754_Nothodelphax_slossonae-FEM-mac-label.jpg
+image_folder00000019	UDCC_TCN 00011754_Nothodelphax_slossonae-FEM-mac-LAT.jpg
+image_folder00000019	UDCC_TCN 00011756_Syndelphax-Liburnia-pseudoseminigra-MALE-brachy-DOR.jpg
+image_folder00000019	UDCC_TCN 00011756_Syndelphax-Liburnia-pseudoseminigra-MALE-brachy-FRONS.jpg
+image_folder00000019	UDCC_TCN 00011756_Syndelphax-Liburnia-pseudoseminigra-MALE-brachy-label.jpg
+image_folder00000019	UDCC_TCN 00011756_Syndelphax-Liburnia-pseudoseminigra-MALE-brachy-LAT2.jpg
+image_folder00000019	UDCC_TCN 00012761 Alphina_glauca2-DOR-scaled.jpg
+image_folder00000019	UDCC_TCN 00012762 Alphina_glauca-DOR-scaled.jpg
+image_folder00000019	UDCC_TCN 00012762 Alphina_glauca-FRONS-scaled.jpg
+image_folder00000019	UDCC_TCN 00012811 Cyrpoptus_sp-wings2.jpg
+image_folder00000019	UDCC_TCN 00016869 Abbrosoga_errata-PARATYPE-MALE-mac-DOR.jpg
+image_folder00000019	UDCC_TCN 00016869 Abbrosoga_errata-PARATYPE-MALE-mac-FRONS.jpg
+image_folder00000019	UDCC_TCN 00016869 Abbrosoga_errata-PARATYPE-MALE-mac-labels.jpg
+image_folder00000019	UDCC_TCN 00016869 Abbrosoga_errata-PARATYPE-MALE-mac-LAT.jpg
+image_folder00000019	UDCC_TCN 00022793_Delphacinus_mesomelus-FEM-brach-FRONS.jpg
+image_folder00000019	UDCC_TCN 00022793_Delphacinus_mesomelus-FEM-brach-LAT.jpg
+image_folder00000019	UDCC_TCN 00022794_Delphacinus_mesomelus-MALE-brach-DOR.jpg
+image_folder00000019	UDCC_TCN 00022794_Delphacinus_mesomelus-MALE-brach-FRONS.jpg
+image_folder00000019	UDCC_TCN 00022794_Delphacinus_mesomelus-MALE-brach-LAT.jpg
+image_folder00000019	UDCC_TCN 00026246 Pentagramma_variegata-TIBIA.jpg
+image_folder00000019	UDCC_TCN 00026247 Pentagramma_vittatifrons-male-calcar.jpg
+image_folder00000019	UDCC_TCN 00026248 Bakerella_cornigera-MALE-mac-FRONS-scaled.jpg
+image_folder00000019	UDCC_TCN 00026249 Caenodelphax-teapae-calcar.jpg
+image_folder00000019	UDCC_TCN 00030040_sogatella_furciform2LAT-Focused.jpg
+image_folder00000019	UDCC_TCN 00030040_Sogatta_furcifera2DOR.jpg
+image_folder00000019	UDCC_TCN 00030040_Sogatta_furcifera2FR.jpg
+image_folder00000019	UDCC_TCN 00030040_Sogatta_furcifera2LAT.jpg
+image_folder00000019	UDCC_TCN 00030041_Sogatella_furcifera1-LAT-Aligned-Focused.jpg
+image_folder00000019	UDCC_TCN 00030041_Sogatta_furcifera1DOR_crop_head_and_thorax.jpg
+image_folder00000019	UDCC_TCN 00030041_Sogatta_furcifera1DOR.jpg
+image_folder00000019	UDCC_TCN 00030041_Sogatta_furcifera1FR.jpg
+image_folder00000019	UDCC_TCN 00030041_Sogatta_furcifera1LAT.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonans-DOR-ALIGNED-scaled.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonans-DOR.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonans-FR2-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonansFR-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonans-FR.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonans-LAT-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030042_Mula_resonans-LAT.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-DOR-FEM-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-DOR-FEM.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonansFR-FEM-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-FR-FEM.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-LAT-FEM-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-LAT-FEM.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-PRONO-FEM-ALIGNED.jpg
+image_folder00000019	UDCC_TCN 00030043_Mula_resonans-PRONO-FEM.jpg
+image_folder00000019	UDCC_TCN 00030045_Otiocerus_francalloni-FEM-LAT.jpg
+image_folder00000019	UDCC_TCN 00030121_Delphacodes_lutulenta-FEMALE2-brac-DOR.jpg
+image_folder00000019	UDCC_TCN 00030121_Delphacodes_lutulenta-FEMALE-brac-FRONS.jpg
+image_folder00000019	UDCC_TCN 00030133_Megamelus_davisi-male-Brach-DOR.jpg
+image_folder00000019	UDCC_TCN 00030133_Megamelus_davisi-male-Brach-FRONS.jpg
+image_folder00000019	UDCC_TCN 00030133_Megamelus_davisi-male-Brach-LAT.jpg
+image_folder00000019	UDCC_TCN 00030133_Megamelus_davisi-male-Brach-LEG.jpg
+image_folder00000019	UDCC_TCN 00030161_Flatoidinus_acutus-FEM-dor-scaled.jpg
+image_folder00000019	UDCC_TCN 00030161_Flatoidinus_acutus-FEM-frons-scaled.jpg
+image_folder00000019	UDCC_TCN 00030161_Flatoidinus_acutus-FEM-lat-scaled.jpg
