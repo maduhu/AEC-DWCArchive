@@ -2,3 +2,9 @@ AMNH_ENT 00021880	image_folder0000001	AMNH_ENT 00021880_chlamyopsallus lycii m.j
 AMNH_ENT 00021881	image_folder0000001	AMNH_ENT 00021881_chlamyopsallus lycii f.jpg
 AMNH_ENT 00021882	image_folder0000001	AMNH_ENT 00021882_calidroides schaffneri f.jpg
 AMNH_ENT 00021883	image_folder0000001	AMNH_ENT 00021883_calidroides negro f.jpg
+AMNH_BEE 00090539	image_folder00000020	AMNH_BEE 00090539-1 Andrena accepta F.jpg
+AMNH_BEE 00090539	image_folder00000020	AMNH_BEE 00090539-2 Andrena accepta F.jpg
+AMNH_BEE 00090539	image_folder00000020	AMNH_BEE 00090539-3 Andrena accepta F.jpg
+AMNH_IZC 00150320	image_folder00000020	AMNH_IZC 00150320_Corixidea_julieae_HT_ genitalia 1.jpg
+AMNH_IZC 00150320	image_folder00000020	AMNH_IZC 00150320_Corixidea_julieae_HT_genitalia 2.jpg
+AMNH_IZC 00150320	image_folder00000020	AMNH_IZC 00150320 Corixidea_julieae_ HT_label.jpg
